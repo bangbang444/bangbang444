@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=ByungHyeon's%20git&animation=&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:233876,100:832003&height=240&text=ByungHyeon's%20git&animation=&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
@@ -40,9 +40,10 @@
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=bangbang444&bg_color=60,5274ff,dbfeff&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangbang444&layout=compact&bg_color=60,5274ff,dbfeff&title_color=ffffff&text_color=ffffff"
-           /> </div> 
+        <div style="text-align: left;"> 
+            <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> 
+            <img src="https://github-readme-stats.vercel.app/api?username=bangbang444&bg_color=60,233876,832003&title_color=ffffff&text_color=ffffff"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangbang444&layout=compact&bg_color=60,233876,832003&title_color=ffffff&text_color=ffffff"/>
+        </div> 
     </div>
     
