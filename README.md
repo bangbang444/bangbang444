@@ -7,7 +7,7 @@ Konkuk University(2023~2025)
 ## ⏱ Experience ⏱
   |기간|활동|기타|
   |---|----|---|
-  |2025.03 - 2025.08|KB IT's your life 6기|spring legacy|
+  |2025.03 - 2025.08|KB IT's your life 6기|spring legacy, vue|
 
 
 ---
