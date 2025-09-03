@@ -46,4 +46,10 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangbang444&layout=compact&bg_color=60,233876,832003&title_color=ffffff&text_color=ffffff"/>
         </div> 
     </div>
+    <div style="text-align: left;"> 
+      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 Algorithm </h2>
+      <div style="text-align: left;">
+        <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kim1228com" />
+      </div>
+    </div>
     
