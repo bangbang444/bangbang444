@@ -40,11 +40,5 @@ Konkuk University(2023~2025)
 
 ---
 
-## 🏅 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bangbang444&bg_color=60,233876,832003&title_color=ffffff&text_color=ffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bangbang444&layout=compact&bg_color=60,233876,832003&title_color=ffffff&text_color=ffffff)
-
----
-
 ## 📊 Algorithm
 ![Baekjoon](https://mazassumnida.wtf/api/v2/generate_badge?boj=kim1228com)
