@@ -1,5 +1,5 @@
 ## 🔭 Education
-Konkuk University(2023~2025)
+Konkuk University(2023~2026)
 > Dept. of Computer Science
 
 ---
